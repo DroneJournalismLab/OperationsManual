@@ -20,17 +20,17 @@ The Drone Journalism Lab Operations Manual is licensed under a [Creative Commons
 
 This text is a guide for safely conducting drone journalism field work. It takes into account America's current drone regulations, our understanding of the public's acceptance of drones, the state of drone technologies, and our own experiences.
 
-The number one goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air. 
+The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air. 
 
-The three flight operations roles defined in the Drone Journalism Lab Operations Manual are Pilot In Command (PIC), Observer, and Journalist. One individual can fill all three roles, which we define below:
+The three flight operations roles defined in the Drone Journalism Lab Operations Manual are: Pilot In Command (PIC), Observer, and Journalist. One individual can fill all three roles, which we define as:
 
-**The Pilot In Command:** The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines if the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining if the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during and after flight operations. 
+**The Pilot In Command:** The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
 
-**NOTE: The pilot in command, the one holding the FAA issued Part 107 certificate, is by regulation the final authority on if the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the pilot in command's decision about flight safety as final.**
+**NOTE: The pilot in command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the pilot in command's decision about flight safety as final.**
 
-**The Observer:** The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate. 
+**The Observer:** The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people who are not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate. 
 
-**The Journalist:** The Journalist is responsible for communicating flight goals to the PIC before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC. The PIC is responsible for determining if the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked while the aircraft is aloft. The Journalist can act as Observer.
+**The Journalist:** The Journalist is responsible for communicating flight goals to the PIC before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked. The Journalist can act as Observer.
 
 Under Part 107, operations can occur with only a PIC. If no additional personnel are available for the flight, care and consideration must be taken for the additional workload that the PIC will take on, including having to watch the operation area for hazards, completing journalistic goals and ensuring flight safety. 
 
@@ -169,19 +169,42 @@ A flight log will highlight the important events that occur from the time a UAS 
 
 What follows are the normal operating checklists to be completed for each flight.
 
-<div style="page-break-after: always;"></div>####Pre-Trip Checklist ####Date: ______________________####
-Item|Action|Status|----|------|------|Batteries|Charge|  |Controller Batteries|ChargePropeller nuts|Check and tightenLanding strut screws|Check and tightenMotor mount screws|Check and tightenGimbal wiring|Check and tightenGimbal mount|Check and tightenGimbal camera harness|Check and tightenCompass wiring|Check and reseat
+<div style="page-break-after: always;"></div>
+####Pre-Trip Checklist 
+####Date: ______________________####
+
+Item|Action|Status|
+----|------|------|
+Batteries|Charge|  |
+Controller Batteries|Charge
+Propeller nuts|Check and tighten
+Landing strut screws|Check and tighten
+Motor mount screws|Check and tighten
+Gimbal wiring|Check and tighten
+Gimbal mount|Check and tighten
+Gimbal camera harness|Check and tighten
+Compass wiring|Check and reseat
 Airframe check|Inspect for damage
-Registration markings|Check for displayCamera battery|ChargeCamera memory card|Check and emptyMission planning meeting|Record goals of the flight
+Registration markings|Check for display
+Camera battery|Charge
+Camera memory card|Check and empty
+Mission planning meeting|Record goals of the flight
 Airspace check|Consult airspace map, NOTAMs, TFRs
-Airport check|Contact ATC, if needed<div style="page-break-after: always;"></div>
+Airport check|Contact ATC, if needed
+<div style="page-break-after: always;"></div>
 ####Pre-Flight Checklist 
 ####Date: ______________________####
 Item|Action|Status|
-----|------|------|Weather|Check location conditions against weather reports|  |Wind conditions|Measure at location, check operation maximums|  |
-Flight area|Visually inspect for hazards, note, and reportTakeoff/landing area|Delineate and clear of debrisOperations area|Delineate > 15 feet from takeoff area
-Flight area|If needed, secure flight area to be kept free from people to ensure safetyPre-flight meeting|Review goals
-WiFi|Turn off WiFi connectivity on any UAS mounted device, including cameras Airworthiness check|Visually inspect aircraft|  |
+----|------|------|
+Weather|Check location conditions against weather reports|  |
+Wind conditions|Measure at location, check operation maximums|  |
+Flight area|Visually inspect for hazards, note, and report
+Takeoff/landing area|Delineate and clear of debris
+Operations area|Delineate > 15 feet from takeoff area
+Flight area|If needed, secure flight area to be kept free from people to ensure safety
+Pre-flight meeting|Review goals
+WiFi|Turn off WiFi connectivity on any UAS mounted device, including cameras 
+Airworthiness check|Visually inspect aircraft|  |
 Airworthiness check|Visually inspect control surfaces and linkages
 Airworthiness check|Inspect props for balance, damage
 <div style="page-break-after: always;"></div>
@@ -195,12 +218,44 @@ Airworthiness check|Verify UAS battery
 Airworthiness check|Verify UAS battery is on
 Airworthiness check|Verify display panel working properly
 Airworthiness check|Calibrate compass, if necessary
-Airworthiness check|Check navigation and telemetry connectionNon-PIC personnel|Leave takeoff area, if presentPIC|Leave takeoff area before launchVideo monitor|Check wireless connectionAll clear check|Check takeoff area, airspace, flight areaPower up|Unlock motors, increase throttleFinal pre-mission check|At low hover, check telemetry status
-Final pre-mission check|At low hover, check prop balance and controls<div style="page-break-after: always;"></div>####Flight Checklist 
-####Date: ______________________####
+Airworthiness check|Check navigation and telemetry connection
+Non-PIC personnel|Leave takeoff area, if present
+PIC|Leave takeoff area before launch
+Video monitor|Check wireless connection
+All clear check|Check takeoff area, airspace, flight area
+Power up|Unlock motors, increase throttle
+Final pre-mission check|At low hover, check telemetry status
+Final pre-mission check|At low hover, check prop balance and controls
+<div style="page-break-after: always;"></div>
+####Flight Checklist 
 
-Item|Action|Status|----|------|------|Airborne hazard check|Observer reports immediately (Over-communicate)|  |Ground hazard check|Observer reports immediatelyBattery check| PIC monitors battery levels frequentlyFlight parameter check|PIC evaluates altitudeLow battery alert|Return to landing areaBattery change|Pilot in command changes the batteryBattery change meeting|Evaluate mission goals<div style="page-break-after: always;"></div>####Post-Flight Checklist. 
-####Date: ______________________####Item|Action|Status|----|------|------|Battery removal|Pilot in command removes the battery|  |Controller|Turn off after battery removalMotor check| Touch motors to check for overheating  Camera|Turn off if required  Memory card|Remove from cameraPropellers|Visual inspection, log changesLanding struts|Visual inspection, log changesGimbal|Visual inspection, log changesHousing|Return UAS to case after inspection
+####Date: ______________________####
+
+Item|Action|Status|
+----|------|------|
+Airborne hazard check|Observer reports immediately (Over-communicate)|  |
+Ground hazard check|Observer reports immediately
+Battery check| PIC monitors battery levels frequently
+Flight parameter check|PIC evaluates altitude
+Low battery alert|Return to landing area
+Battery change|Pilot in command changes the battery
+Battery change meeting|Evaluate mission goals
+<div style="page-break-after: always;"></div>
+####Post-Flight Checklist. 
+
+####Date: ______________________####
+
+Item|Action|Status|
+----|------|------|
+Battery removal|Pilot in command removes the battery|  |
+Controller|Turn off after battery removal
+Motor check| Touch motors to check for overheating  
+Camera|Turn off if required  
+Memory card|Remove from camera
+Propellers|Visual inspection, log changes
+Landing struts|Visual inspection, log changes
+Gimbal|Visual inspection, log changes
+Housing|Return UAS to case after inspection
 Flight log|Update flight log
 <div style="page-break-after: always;"></div>
 ##Emergency Procedures##
@@ -211,7 +266,10 @@ Flight log|Update flight log
 
 **Lost Autonomous Flight Procedure Checklist**
 
-Actor|Action----|------PIC|Verifies automated flight has stoppedPIC|Verbally notifies Observer
+Actor|Action
+----|------
+PIC|Verifies automated flight has stopped
+PIC|Verbally notifies Observer
 PIC|PIC assumes control via RC, if possible
 Observer|Observer notifies other operations personnel
 PIC|Returns UAS to pre-determined landing area as safely practical
@@ -219,7 +277,9 @@ PIC|Land UAS
 <div style="page-break-after: always;"></div>
 **Lost RC Control Procedure Checklist**
 
-Actor|Action----|------PIC|Verifies lost link
+Actor|Action
+----|------
+PIC|Verifies lost link
 PIC|Verbally notifies Observer
 Observer|Verbally notifies other operations personnel
 PIC|Turns off RC controller
@@ -236,7 +296,9 @@ During any automated flight, if there is any concern that the UAS is not flying 
 
 **Emergency Assumption of Control Checklist**
 
-Actor|Action----|------PIC|Verifies abnormal operation
+Actor|Action
+----|------
+PIC|Verifies abnormal operation
 PIC|Verbally notifies Observer
 Observer|Verbally notifies other operations personnel
 PIC|Assumes control of UAS using RC
@@ -249,7 +311,9 @@ Regulations require that the UAS remain within Visual Line of Sight(VLOS) at all
 
 **Loss of Sight Checklist**
 
-Actor|Action----|------PIC|Notifies Observer of broken VLOS
+Actor|Action
+----|------
+PIC|Notifies Observer of broken VLOS
 Observer|Reports if UAS is within Observer's VLOS
 Observer|If UAS is out of VLOS, alert PIC to begin Loss of Sight procedures
 PIC|If possible, reverse course to return to VLOS as soon as safe
@@ -264,14 +328,18 @@ In most emergency situations, the general protocol is to land as soon as is safe
 
 **Loss of Power/Motor**
 
-Actor|Action----|------PIC|Attempt control the UAS to land in open, safe area
+Actor|Action
+----|------
+PIC|Attempt control the UAS to land in open, safe area
 PIC|Alert operations personnel of emergency situation
 Observer|Alert others to emergency situation
 PIC|Post flight, record details of flight for report
 
 **In-Flight Fire**
 
-Actor|Action----|------PIC|Attempt control the UAS to land in open, safe area
+Actor|Action
+----|------
+PIC|Attempt control the UAS to land in open, safe area
 PIC|Alert operations personnel of emergency situation
 Observer|Alert others to emergency situation
 PIC|Post flight, record details of flight for report
